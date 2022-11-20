@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "real-tech-bd-world-2nd",
+  "private_key_id": "ddd428cfba5bd56996b7afb88f44da06903f9eac",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCaDpcaqW38K5qh\nAPG5syJy/eaixxxD1lFandGw4/JVfY76P/eJNE10jqRjA4jFFzlpM5G4piy5bTY6\nUMK5P2OeAcBK37ME/u00f/8+uUqVzVuBLDFNdIBluyduuwyBXPZdkX2HszN0ZOdv\nVXFVW1kumnlmf8kajhdrFRxEV1Rhi9uIsnn6q+QaMTulWjGI7A9vVdTdYvE3Q3Xp\nl6SWv63V+QzuU2Qxr+vH6ABKydpm5UHJdwYCNmE42DZDo5yjgJaEmeh/8tTma3CP\nW8nNSIp1QdA6DyLk3FrEjb/pUNTTQ2JyYGSC97M8PviPm0YSnKu3t3IuQfp3rcLd\nTv9/4Zn/AgMBAAECggEAPbECCYc3p/e+ICNEqVx2ux25sg2R4Ah+4463XeKqNFnn\nW4cqFSOAsOA+K/hKWMKIFvyzqgHBfy+gu5GDqLMdrTR+UH1sLt/3FUL8b527pGlr\n7zpHNAEnOZXMoKb+xv73GVkdr62vOTj/BLJuhAPknqj1XHpnid7EufjmLOfbvoOn\nk5wnwyZL9VMnOFtQc/dey1Xr+vj8Lei63nwLKnXMcNnXRGdwvMg5I6+uqnqXky/K\nZNroyIvLCfTTN70qvj63hAUuI9CGdPTITp3aTOs1YU2HCoZ4wv5flHt4HQAnqu8V\ngEra63xOfHenZP8wlFA12Aq6uksopUudAxv1pWDX4QKBgQDV8YGjeTvJXB85kSMP\nPoNPaWbYr9YKpTWyVjEpz0nJ39+VQbmulqeMfrus7zeaJcReUDgnoe2+vVYiNGOK\nIARYKXZ0QOJJzpURZSZLlmjHoElcDCoEY9Qr5sTfX59thD95pBqhlgiXJ+QyLJtV\n6GHGx23p0XZdP9/rbyroZvbbmwKBgQC4V1v1nC85ug9jeUmU7xGYUKWZGfQm2D0z\n6uPoZYPKsMfM/FPk7svCAN0sW3EksKY8+cJ2Pb8tQQVTL5fC9fOBeuSJCJGiGXvM\nMDJc05ivoT4jLS2LWeen1a2Y7zdi6JClCWvF6Dhn9nwPHFnmOFjW47e7lW6GxyfB\nq5/jbIJbbQKBgG3W6zbxtDdCO6nDkRtvfd0UgT/4rsySW4ou5FjR2tFxRgoMT3eK\nU4U3P8Wen45dm37McrguU7Bc5s7y1LQCkhhtWSqAcW1xSWk/5DRkiXEMIv3GJQBR\n/Il5llQUdPa2MhySmzWgoNJyIZ989Vda0nBKzWyBJOLlO2JVldLxogXHAoGAI3u1\nWM6qjHsTETu8fS2TfnUvmwvS4lNHXKH/IrG/r5ldrEh5wZxxnjNaX3puifhy11Pg\nKbBzBzv30W5c0QtUxvyn1vTOS5yKJuC0IQgd4NixxEWi+arhm33W/5Q0XhaUGSB6\nHUs46FIayTHU4CrCdwK4UCRQdSMKtQ3bJgSyBvUCgYAEsar7rx417dM8t7duJBDW\nR2J5Td+Btcp0yM5LCWgWnzCrZkZ5/kDPxKMXdEHfagCPAvyvSJWZJ4icbKjD6jG2\nFGX67UmGAcLNjSNfuqbkl9D09LttnJrqeAY0uU7HWxowOf6dPI13MDf2byRXuFsY\n3l/JmbMh5wnfeycMVfH7Tw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-t30q7-zzwifnv47-bx-9kmoq3t@real-tech-bd-world-2nd.iam.gserviceaccount.com",
+  "client_id": "112136553356934109259",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-t30q7-zzwifnv47-bx-9kmoq3t%40real-tech-bd-world-2nd.iam.gserviceaccount.com"
+}
